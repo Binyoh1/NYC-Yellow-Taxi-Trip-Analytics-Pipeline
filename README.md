@@ -8,7 +8,9 @@ Trip records include fields capturing pickups and drop-offs dates/times, pickup 
 
 
 ## Architecture & System Design
-### Folder Structure
+
+
+## Folder Structure
 ```text
 .
 ├── config/
